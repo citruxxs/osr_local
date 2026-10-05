@@ -6,7 +6,7 @@ ors:
   engine:
     profile_default:
       build:
-        source_file: /home/ors/files/mexico_latest.osm.pbf
+        source_file: /home/ors/files/mexico-latest.osm.pbf
     profiles:
       foot-walking:
         enabled: true
